@@ -1,7 +1,7 @@
 ### Hi there I'm Valeriya👋
 
 # 💫 About Me:
-🔭 I’m currently working on PHP project<br>🤝 I’m looking for help with Descodeuses team<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I'm inquisitive and prying
+🔭 I’m currently working on PHP project<br>🤝 I’m looking for a stage for September<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I'm inquisitive and prying
 
 
 ## 🌐 Socials:
