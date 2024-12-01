@@ -1,8 +1,5 @@
 ### Hi there I'm Valeriya👋
 
-# 💫 About Me:
-🔭 I’m currently working on PHP project<br>🤝 I’m looking for a stage for September 2023<br>🌱 I’m currently learning PHP<br>⚡ Fun fact: I'm inquisitive 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vs1518/) 
 
